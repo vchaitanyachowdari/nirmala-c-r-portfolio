@@ -55,7 +55,6 @@
     "autoprefixer": "10.4.16",
     "clsx": "^2.0.0",
     "eslint": "8.51.0",
-    "eslint-config-next": "15.1.6",
     "framer-motion": "^12.4.0",
     "next": "15.2.3",
     "next-pwa": "^5.6.0",
@@ -72,7 +71,8 @@
   },
   "devDependencies": {
     "@types/react-google-recaptcha": "^2.1.9",
-    "@types/react-vertical-timeline-component": "^3.3.5"
+    "@types/react-vertical-timeline-component": "^3.3.5",
+    "eslint-config-next": "^15.3.2"
   },
   "funding": [
     {
