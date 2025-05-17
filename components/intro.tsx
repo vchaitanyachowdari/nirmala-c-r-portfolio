@@ -68,7 +68,7 @@ const Intro = () => {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <b className="font-bold">Hi,Dr. Nirmala C R I&apos;m .</b>{" "}
+        <b className="font-bold">Hi,I&apos;m Dr. Nirmala C R .</b>{" "}
         I&apos;m a <b className="font-bold">Teacher</b> with{" "}
         <b className="font-bold">32+ years</b> of experience. I enjoy teaching{" "}
         <i className="italic">Students</i>.
