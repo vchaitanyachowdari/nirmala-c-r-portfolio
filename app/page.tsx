@@ -22,8 +22,8 @@ export default function Home() {
       {/* The About component provides information about the author or user. */}
       <About />
 
-//      {/* The Projects component displays information about projects. */}
-//      <Projects />
+      {/* The Projects component displays information about projects. */}
+      <Projects />
 
       {/* The Skills component shows the skills of the author or user. */}
       <Skills />
