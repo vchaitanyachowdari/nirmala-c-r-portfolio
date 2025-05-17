@@ -2,21 +2,7 @@
 
 # A Modern UI/UX Portfolio using Next.JS
 
-![A Modern UI/UX Portfolio using Next.JS](/.github/images/img_main.png "A Modern UI/UX Portfolio using Next.JS")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/portfolio/pulls "GitHub pull requests")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sanidhy.me/ "Vercel status")
-
-<!-- Table of Contents -->
-<details>
-
-<summary>
 
 # :notebook_with_decorative_cover: Table of Contents
 
@@ -60,7 +46,6 @@ portfolio/
     |-- header.tsx
     |-- index.ts
     |-- intro.ts
-    |-- projects.ts
     |-- section-divider.ts
     |-- section-heading.ts
     |-- skills.ts
@@ -135,8 +120,6 @@ NEXT_PUBLIC_GOOGLE_VERIFICATION_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ![Modern UI/UX using Tailwind CSS](/.github/images/img1.png "Modern UI/UX using Tailwind CSS")
 
-![Showcase Projects](/.github/images/img2.png "Showcase Projects")
-
 ![Tell about your Experiences](/.github/images/img3.png "Tell about your Experiences")
 
 ![Working Contact Form](/.github/images/img4.png "Working Contact Form")
@@ -146,8 +129,6 @@ NEXT_PUBLIC_GOOGLE_VERIFICATION_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel")
 
 ## :wrench: Stats
-
-[![Stats for My portfolio](/.github/images/stats.svg "Stats for My portfolio")](https://pagespeed.web.dev/analysis?url=https://www.sanidhy.me/ "Stats for My portfolio")
 
 ## :raised_hands: Contribute
 
@@ -165,16 +146,6 @@ Useful resources and libraries that are used in My Portfolio
 - [React Hot Toast](https://www.npmjs.com/package/react-hot-toast "React Hot Toast")
 - [React Intersection Observer](https://www.npmjs.com/package/react-intersection-observer "React Intersection Observer")
 - [Next PWA](https://www.npmjs.com/package/next-pwa "Next PWA")
-
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## :rocket: Follow Me
-
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%portfolio "Tweet about this project")
-[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
 
 ## :books: Learn More
 

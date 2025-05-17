@@ -20,10 +20,8 @@ export const viewport: Viewport = {
 
 // site metadata
 export const metadata: Metadata = {
-  title: `${OWNER_NAME.split(" ")[0]} | Personal Portfolio`,
-  description: `${
-    OWNER_NAME.split(" ")[0]
-  } is a full-stack developer with 4 years of experience.`,
+  title: `Dr. Nirmala C R | Personal Portfolio`,
+  description: `Dr. Nirmala C R is Dean, Placement at Bapuji Institute of Engineering & Technology, DAVANAGERE`,
   authors: {
     name: OWNER_NAME,
     url: EXTRA_LINKS.github,
