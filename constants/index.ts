@@ -18,10 +18,6 @@ export const LINKS = [
     name: "About",
     hash: "#about",
   },
-  // {
-  //   name: "Projects",
-  //   hash: "#projects",
-  // },
   {
     name: "Skills",
     hash: "#skills",
@@ -48,40 +44,25 @@ export const EXTRA_LINKS = {
 // Data for work experience
 export const EXPERIENCES_DATA = [
   {
-    title: "Bapuji Institute of Engineering & Technology, DAVANAGERE",
-    description: "Dean Placement",
+    title: "Visvesvaraya Technological University",
+    description: "Completed Ph.D in Artificial Intelligence",
     icon: React.createElement(LuGraduationCap),
-    date: "  1995 - Present",
+    date: "2003 - 2013",
+  },
+  {
+    title: "National Institute of Technology Karnataka",
+    description: "Completed M.Tech in Computer Engineering",
+    icon: React.createElement(LuGraduationCap),
+    date: "1999 - 2001",
+  },
+  {
+    title: "Bapuji Institute of Engineering & technology",
+    description: "Completed B.E in Electronics & Communication",
+    icon: React.createElement(LuGraduationCap),
+    date: "1988 - 1992",
   },
 ] as const;
 
-// Data for projects
-export const PROJECTS_DATA = [
-  // {
-  //   title: "CarHub",
-  //   description:
-  //     "A web app that is built using NextJS and enables users to quickly search and obtain information about cars.",
-  //   tags: ["React", "Next.js", "TypeScript", "Tailwind", "Headless UI"],
-  //   imageUrl: carhubImg,
-  //   projectUrl: "https://carhb.vercel.app/",
-  // },
-  // {
-  //   title: "Realtor",
-  //   description:
-  //     "Buy and rent homes for everyone. I was the front-end developer. It has features like filtering, sorting, and pagination.",
-  //   tags: ["React", "Chakra UI", "Next.js", "Framer Motion", "React Icons"],
-  //   imageUrl: realtorImg,
-  //   projectUrl: "https://real-estate-app-react.vercel.app/",
-  // },
-  // {
-  //   title: "ECommerce Store",
-  //   description:
-  //     "A NextJS-based eCommerce store that allows users to order different products. It supports real-time payments using Stripe.",
-  //   tags: ["React", "Next.js", "Sanity", "React Router", "Stripe"],
-  //   imageUrl: ecommerceImg,
-  //   projectUrl: "https://ecommerce-app-next.vercel.app/",
-  // },
-] as const;
 
 // Data for skills
 export const SKILLS_DATA = [
@@ -98,3 +79,4 @@ export const SKILLS_DATA = [
 
 // Owner name
 export const OWNER_NAME = "Dr. Nirmala C R";
+// Add this at the top or where appropriate
