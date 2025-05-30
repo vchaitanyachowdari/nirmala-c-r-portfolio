@@ -44,22 +44,40 @@ export const EXTRA_LINKS = {
 // Data for work experience
 export const EXPERIENCES_DATA = [
   {
-    title: "Visvesvaraya Technological University",
-    description: "Completed Ph.D in Artificial Intelligence",
+    title: "Bapuji Institute of Engineering & Technology",
+    description: "Dean of Placement",
     icon: React.createElement(LuGraduationCap),
-    date: "2003 - 2013",
+    date: "2021 - Present",
   },
   {
-    title: "National Institute of Technology Karnataka",
-    description: "Completed M.Tech in Computer Engineering",
+    title: "Bapuji Institute of Engineering & Technology",
+    description: "Professor and Head of Department Computer Science and Engineering",
     icon: React.createElement(LuGraduationCap),
-    date: "1999 - 2001",
+    date: "2013 - Present",
   },
   {
-    title: "Bapuji Institute of Engineering & technology",
-    description: "Completed B.E in Electronics & Communication",
+    title: "Bapuji Institute of Engineering & Technology",
+    description: "Associate Professor",
     icon: React.createElement(LuGraduationCap),
-    date: "1988 - 1992",
+    date: "2012 - 2013",
+  },
+  {
+    title: "Bapuji Institute of Engineering & Technology",
+    description: "Assistant Professor",
+    icon: React.createElement(LuGraduationCap),
+    date: "2007 - 2012",
+  },
+  {
+    title: "Bapuji Institute of Engineering & Technology",
+    description: "Lecture",
+    icon: React.createElement(LuGraduationCap),
+    date: "1995 - 2007",
+  },
+  {
+    title: "Trainee Engineer",
+    description: "Bharat Electronics Limited",
+    icon: React.createElement(LuGraduationCap),
+    date: "1993 - 1994",
   },
 ] as const;
 
