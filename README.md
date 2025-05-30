@@ -161,20 +161,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## :star: Give A Star
-
-You can also give this repository a star to show more people and they can use this repository.
-
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/portfolio&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/portfolio&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/portfolio&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/portfolio&type=Timeline" />
-  </picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
